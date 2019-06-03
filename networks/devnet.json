@@ -1,14 +1,14 @@
 {
-  "title": "DARK Explorer",
-  "server": "https://dexplorer.ark.io/api/v2",
+  "title": "testtoken0 Devnet Explorer",
+  "server": "http://51.83.74.13:4003/api/v2",
   "alias": "Development",
-  "activeDelegates": 51,
-  "rewardOffset": 10800,
+  "activeDelegates": "23",
+  "rewardOffset": "1",
   "currencies": [],
   "knownWallets": {},
   "defaults": {
-    "token": "DARK",
-    "symbol": "DѦ",
+    "token": "TTØ",
+    "symbol": "Ø",
     "currency": null,
     "priceChart": false
   }
